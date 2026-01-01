@@ -1,1 +1,1 @@
-# Library-Mangement-System
+The Library Management System is a C#.NET–based application designed to manage library operations efficiently. It allows librarians to add, update, and delete book records, manage member details, issue and return books, and track due dates. The system helps reduce manual work, ensures proper record maintenance, and improves overall library management using structured data handling and object-oriented programming concepts.
